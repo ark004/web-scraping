@@ -1,3 +1,3 @@
 # web-scraping
 
-web scraping codes for collecting some data from web site 
+codes for collecting some data from web site 
